@@ -1,5 +1,0 @@
-numpy
-pandas
-azure-storage-file-datalake
-dbutils
-requests
